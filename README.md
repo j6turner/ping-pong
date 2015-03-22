@@ -11,7 +11,7 @@ Usage
 -----
 
 To view the site, either open the `index.html` file
-in a Web browser or simply [click here](http://htmlpreview.github.com/?https://github.com/j6turner/ping-pong).
+in a Web browser or simply [click here](http://htmlpreview.github.com/?https://github.com/j6turner/ping-pong/blob/master/index.html).
 
 
 Known Bugs
