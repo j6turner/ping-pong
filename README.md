@@ -1,10 +1,10 @@
 Ping-pong Test
 ============
 
-**This JavaScript Web app prompts user to enter a number. Using that number
+This JavaScript Web app prompts user to enter a number. Using that number
 as the end of the range, the program returns all integers in the range,
 replacing those divisible by 3 with "ping," those divisible by 5 with "pong,"
-and those divisible by 15 with "ping-pong."**
+and those divisible by 15 with "ping-pong."
 
 
 Usage
